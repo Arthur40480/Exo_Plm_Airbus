@@ -8,20 +8,13 @@ Cette application Java vous permet de suivre, rechercher, acheter des pièces et
 __Affichage des avions :__ 
   * Affiche la liste complète des avions Airbus, avec leurs informations détaillées, identifiant unique (programme), etc.
 
-__Ajout d'articles au panier :__  
-   * Permet au client d'ajouter des articles à son panier.
+__Recherche d'Avions :__  
+   * Permet de rechercher des avions à partir d'un mot-clé. Par exemple, la recherche peut afficher tous les avions dont le programme contient la lettre "A" ou le chiffre "320".
      
-__Génération du ticket de caisse :__ 
-  * Affiche un récapitulatif du panier du client.
-  * Calcule le coût total des achats.
-
-__Mise à jour de la liste des articles :__ 
-  * Actualise la disponibilité des articles après chaque achat.
-
-__Bilan quotidien :__ 
-  * Affiche le nombre de clients.
-  * Récapitule les achats de chaque client.
-  * Calcule le coût total des ventes de la journée.
+__Gestion des Pièces :__ 
+  * _Achat de Pièces :_ Possibilité d'acheter des pièces pour un avion spécifique en fournissant les détails appropriés.
+  * _Suppression de Pièces :_ Permet de supprimer une pièce pour un avion donné.
+  * _Affichage des Pièces :_ Offre la possibilité d'afficher toutes les pièces associées à un avion particulier.
 
 ### Comment Utiliser
 1. Installer Git
@@ -29,8 +22,4 @@ __Bilan quotidien :__
 3. Importer le projet dans votre IDE
 4. Exécutez le programme
    
-     * Saisissez le nombre de chevaux (entre 12 et 20)
-     * Choisissez le type de course (tiercé, quarté, quinté)
-     * Observez la simulation de la course et découvrez les résultats
-
 ### N'oubliez pas, cinq fruits et légumes par jour ! :green_apple: :eggplant: :watermelon: :lemon:
