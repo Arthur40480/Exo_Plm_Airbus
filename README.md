@@ -22,4 +22,4 @@ __Gestion des Pièces :__
 3. Importer le projet dans votre IDE
 4. Exécutez le programme
    
-### N'oubliez pas, cinq fruits et légumes par jour ! :green_apple: :eggplant: :watermelon: :lemon:
+### Bon vol ! ✈️ 💨
