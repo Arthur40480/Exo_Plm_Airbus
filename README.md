@@ -1,14 +1,12 @@
-# Au Bon Marché - Application de Gestion des Achats
+# Application de Cycle de Vie d'Avion Airbus
 ## Présentation
-Au Bon Marché est une application Java simple qui permet aux clients de faire des achats de fruits et légumes. 
-L'application gère les informations des clients, met à jour la liste des articles disponibles et génère un ticket de caisse à la fin des achats. 
-De plus, elle fournit un bilan quotidien qui récapitule le nombre de clients, leurs achats et le coût total de la journée.
+Bienvenue dans l'application de gestion du cycle de vie des avions Airbus. 
+Cette application Java vous permet de suivre, rechercher, acheter des pièces et gérer les informations des avions.
 
 ### Fonctionnalités
 
-__Demande d'informations au client :__ 
-  * Nom et prénom du client.
-  * Liste des articles disponibles (fruits et légumes).
+__Affichage des avions :__ 
+  * Affiche la liste complète des avions Airbus, avec leurs informations détaillées, identifiant unique (programme), etc.
 
 __Ajout d'articles au panier :__  
    * Permet au client d'ajouter des articles à son panier.
