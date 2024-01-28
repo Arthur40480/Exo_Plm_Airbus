@@ -7,15 +7,19 @@ De plus, le client a la possibilité d'afficher les détails de son compte ainsi
 ### Fonctionnalités
 
 __Connexion au Compte :__ 
-  * Affiche la liste complète des avions Airbus, avec leurs informations détaillées, identifiant unique (programme), etc.
+  * Le client peut se connecter à son compte en fournissant son identifiant de compte.
 
-__Recherche d'Avions :__  
-   * Permet de rechercher des avions à partir d'un mot-clé. Par exemple, la recherche peut afficher tous les avions dont le programme contient la lettre "A" ou le chiffre "320".
+__Virement :__  
+   * Le client peut effectuer un virement depuis son compte vers un autre compte.
      
-__Gestion des Pièces :__ 
-  * _Achat de Pièces :_ Possibilité d'acheter des pièces pour un avion spécifique en fournissant les détails appropriés.
-  * _Suppression de Pièces :_ Permet de supprimer une pièce pour un avion donné.
-  * _Affichage des Pièces :_ Offre la possibilité d'afficher toutes les pièces associées à un avion particulier.
+__Retrait :__ 
+  * Le client peut retirer de l'argent de son compte.
+
+__Dépôt :__ 
+  * Le client peut afficher les détails de son compte, tels que le solde actuel et les informations du titulaire du compte.
+
+__Historique des Transactions :__ 
+  * Le client peut consulter l'historique complet des transactions effectuées sur son compte.
 
 ### Comment Utiliser
 1. Installer Git
@@ -23,4 +27,3 @@ __Gestion des Pièces :__
 3. Importer le projet dans votre IDE
 4. Exécutez le programme
    
-### Bon vol ! ✈️ 💨
