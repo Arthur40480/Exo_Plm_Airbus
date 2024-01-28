@@ -1,11 +1,12 @@
 # Application de Cycle de Vie d'Avion Airbus
 ## Présentation
-Bienvenue dans l'application de gestion du cycle de vie des avions Airbus. 
-Cette application Java vous permet de suivre, rechercher, acheter des pièces et gérer les informations des avions.
+Cette application Java de banque permet à un client de se connecter à son compte bancaire en utilisant son identifiant de compte. 
+Une fois connecté, le client peut effectuer diverses opérations telles que virement, retrait et dépôt d'argent. 
+De plus, le client a la possibilité d'afficher les détails de son compte ainsi que l'historique complet des transactions effectuées sur ce compte.
 
 ### Fonctionnalités
 
-__Affichage des avions :__ 
+__Connexion au Compte :__ 
   * Affiche la liste complète des avions Airbus, avec leurs informations détaillées, identifiant unique (programme), etc.
 
 __Recherche d'Avions :__  
